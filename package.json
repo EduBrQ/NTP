@@ -1,0 +1,23 @@
+{
+    "name": "request-ip-examples",
+    "version": "1.0.0",
+    "description": "",
+    "main": "connect-middleware-simple.js",
+    "author": "Petar Bojinov <petarbojinov@gmail.com> (https://github.com/pbojinov)",
+    "license": "MIT",
+    "dependencies": {
+        "async": "^2.6.1",
+        "await": "^0.2.6",
+        "babel-cli": "^6.26.0",
+        "connect": "^3.4.1",
+        "dgram": "^1.0.1",
+        "dns": "^0.2.2",
+        "nmea": "^0.1.0",
+        "node-nmea": "^1.0.4",
+        "node-windows": "^0.1.14",
+        "ntp2": "^1.0.1",
+        "ntpsync": "^0.2.3",
+        "request-ip": "^1.2.0",
+        "util": "^0.11.0"
+    }
+}
